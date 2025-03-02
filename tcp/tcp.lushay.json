@@ -1,0 +1,6 @@
+{
+    "name": "tcp",
+    "includedFiles": ["tcp.v"],
+    "constraintsFile": "tangnano9k.cst",
+    "top": "tcp_offload"
+}

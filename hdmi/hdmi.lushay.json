@@ -1,0 +1,7 @@
+{
+    "name": "hdmi",
+    "includedFiles": "all",
+    "constraintsFile": "src/hdmi.cst",
+    "top": "top",
+    "board": "tangnano9k"
+}

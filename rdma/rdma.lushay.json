@@ -1,0 +1,6 @@
+{
+    "name": "rdma",
+    "includedFiles": ["rdma.v"],
+    "constraintsFile": "tangnano9k.cst",
+    "top": "rdma"
+}
